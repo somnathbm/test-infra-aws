@@ -1,0 +1,6 @@
+id: 691685274845
+region: us-east-1
+role_name: AwsageEngnrDevOrgAccessRole
+s3_state:
+  bucket: awsinfra-state-dev
+  dynamo_table: awsinfra-state-lock-dev
