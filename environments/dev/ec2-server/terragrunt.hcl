@@ -3,5 +3,5 @@ include "root" {
 }
 
 terraform {
-  source = "../../../modules/ec2-server"
+  source = "github.com/somnathbm/test-aws-module//modules/ec2-server?ref=v1.0.0"
 }
